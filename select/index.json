@@ -1,0 +1,272 @@
+{
+  "version": 1,
+  "base_track": "Take Me Out",
+  "base_artist": "Franz Ferdinand",
+  "createdAt": "2026-03-08T18:29:05.945553Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Take Me out Your Mind",
+      "artist": "Monarchy",
+      "has_synced": true,
+      "path": "select/01_Take_Me_out_Your_Mind_Monarchy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "(Won't Somebody) Take Me Out Tonight",
+      "artist": "Molly Nilsson",
+      "has_synced": true,
+      "path": "select/02_(Won't_Somebody)_Take_Me_Out_Tonight_Molly_Nilsson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Take Me Out",
+      "artist": "Franz Ferdinand",
+      "has_synced": true,
+      "path": "select/03_Take_Me_Out_Franz_Ferdinand.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Take Me Out",
+      "artist": "Franz Ferdinand",
+      "has_synced": true,
+      "path": "select/04_Take_Me_Out_Franz_Ferdinand.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Take Me Out",
+      "artist": "Emma Blackery",
+      "has_synced": true,
+      "path": "select/05_Take_Me_Out_Emma_Blackery.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Take Me Out of Myself",
+      "artist": "Erasure",
+      "has_synced": false,
+      "path": "select/06_Take_Me_Out_of_Myself_Erasure.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Take Me Out",
+      "artist": "Red House Painters",
+      "has_synced": true,
+      "path": "select/07_Take_Me_Out_Red_House_Painters.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Take Me Out",
+      "artist": "Scissor Sisters",
+      "has_synced": true,
+      "path": "select/08_Take_Me_Out_Scissor_Sisters.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Take Me Out To The Ball Game",
+      "artist": "Frank Zappa",
+      "has_synced": true,
+      "path": "select/09_Take_Me_Out_To_The_Ball_Game_Frank_Zappa.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "0941 - Franz Ferdinand - Take Me Out",
+      "artist": "Franz Ferdinand",
+      "has_synced": true,
+      "path": "select/10_0941_-_Franz_Ferdinand_-_Take_Me_Out_Franz_Ferdinand.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Take Me Out to the Ballgame",
+      "artist": "Raffi",
+      "has_synced": true,
+      "path": "select/11_Take_Me_Out_to_the_Ballgame_Raffi.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Take Me Out!!",
+      "artist": "Fear, and Loathing in Las Vegas",
+      "has_synced": false,
+      "path": "select/12_Take_Me_Out!!_Fear,_and_Loathing_in_Las_Vegas.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love Won't Take Me Out",
+      "artist": "En Vogue",
+      "has_synced": true,
+      "path": "select/13_Love_Won't_Take_Me_Out_En_Vogue.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Take Me Out",
+      "artist": "Franz Ferdinand",
+      "has_synced": true,
+      "path": "select/14_Take_Me_Out_Franz_Ferdinand.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Take Me Out To The Ball Game - Live At Shea, 2008",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/15_Take_Me_Out_To_The_Ball_Game_-_Live_At_Shea,_2008_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Take Me To Church",
+      "artist": "Hozier",
+      "has_synced": true,
+      "path": "select/16_Take_Me_To_Church_Hozier.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Cowboy Take Me Away",
+      "artist": "The Chicks",
+      "has_synced": true,
+      "path": "select/17_Cowboy_Take_Me_Away_The_Chicks.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Cowboy Take Me Away (Album Version)",
+      "artist": "The Chicks",
+      "has_synced": true,
+      "path": "select/18_Cowboy_Take_Me_Away_(Album_Version)_The_Chicks.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Cowboy Take Me Away (Album Version)",
+      "artist": "The Chicks",
+      "has_synced": true,
+      "path": "select/19_Cowboy_Take_Me_Away_(Album_Version)_The_Chicks.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Take Me Away",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/20_Take_Me_Away_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Take Me Down",
+      "artist": "Alabama",
+      "has_synced": true,
+      "path": "select/21_Take_Me_Down_Alabama.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Take Me Home",
+      "artist": "Restless Road feat. Kane Brown",
+      "has_synced": true,
+      "path": "select/22_Take_Me_Home_Restless_Road_feat._Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Take Me Home",
+      "artist": "Restless Road",
+      "has_synced": false,
+      "path": "select/23_Take_Me_Home_Restless_Road.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Take Me Home Country Roads",
+      "artist": "Daryle Singletary",
+      "has_synced": true,
+      "path": "select/24_Take_Me_Home_Country_Roads_Daryle_Singletary.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Take Me Home, Country Roads",
+      "artist": "John Denver",
+      "has_synced": true,
+      "path": "select/25_Take_Me_Home,_Country_Roads_John_Denver.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Take Me Home, Country Roads",
+      "artist": "John Denver",
+      "has_synced": true,
+      "path": "select/26_Take_Me_Home,_Country_Roads_John_Denver.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Take Me There",
+      "artist": "Rascal Flatts",
+      "has_synced": true,
+      "path": "select/27_Take_Me_There_Rascal_Flatts.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Take Me As I Am",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/28_Take_Me_As_I_Am_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Take Me as I Am (Album Version)",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/29_Take_Me_as_I_Am_(Album_Version)_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Take Me To Your World",
+      "artist": "Tammy Wynette",
+      "has_synced": false,
+      "path": "select/30_Take_Me_To_Your_World_Tammy_Wynette.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Tennessee (Take Me Down)",
+      "artist": "Clayton Anderson",
+      "has_synced": true,
+      "path": "select/31_Tennessee_(Take_Me_Down)_Clayton_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Take Me Away",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/32_Take_Me_Away_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Take Me Out",
+      "artist": "Franz Ferdinand",
+      "has_synced": false,
+      "path": "select/pl_01_Take_Me_Out_Franz_Ferdinand.txt"
+    }
+  ]
+}
